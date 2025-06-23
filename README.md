@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a cybersecurity and cloud infrastructure engineer with
 
 - 📧 emmanuelsema750505@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-sema-380593155/)
-- 🧠 Currently studying advanced DevSecOps, AWS security automation, and compliance tooling, software development and AI.
+- 🧠 Currently studying advanced DevSecOps, AWS security automation,compliance tooling, software development and AI.
 
 ---
 
